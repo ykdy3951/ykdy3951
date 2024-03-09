@@ -50,7 +50,7 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=ykdy3951&theme=react-dark&title_color=FFFFFF&color=FFFFFF&radius=10"/>
     </a>
     <a href="https://github.com/ykdy3951">
-        <img src="https://github-profile-trophy.vercel.app/?username=ykdy3951&theme=flat&column=9">
+        <img src="https://github-profile-trophy.vercel.app/?username=ykdy3951&theme=onedark&column=9">
     </a>
     <br/><br/>
 </div>
