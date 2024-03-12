@@ -23,9 +23,16 @@
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
     </p>
     <h4> Framework </h4>
-    <!-- pytorch, react, nodejs, express, nestjs, django, fastapi, flask -->
+    <!-- pytorch, lightning, react, nodejs, express, nestjs, django, fastapi, flask, numpy, pandas -->
+    <!-- sklearn, keras -->
     <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Lightning-792EE5?style=flat-square&logo=Lightning&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
+        <br/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
@@ -33,10 +40,6 @@
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-        <!-- torch lightning, numpy, pandas, matplotlib, seaborn -->
-        <img src="https://img.shields.io/badge/Lightning-792EE5?style=flat-square&logo=Lightning&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>
     </p>
     <h4> Database </h4>
     <!-- mysql, postgresql, sqlite -->
