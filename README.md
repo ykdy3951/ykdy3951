@@ -33,6 +33,25 @@
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+        <!-- torch lightning, numpy, pandas, matplotlib, seaborn -->
+        <img src="https://img.shields.io/badge/Lightning-792EE5?style=flat-square&logo=Lightning&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>
+    </p>
+    <h4> Database </h4>
+    <!-- mysql, postgresql, sqlite -->
+    <p>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
+    </p>
+    <h4> Cloud / Infra </h4>
+    <!-- aws, gcp, docker, kubernetes -->
+    <p>
+        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
     </p>
     <br/>
     <a href="https://git.io/streak-stats">
