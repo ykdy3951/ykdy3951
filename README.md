@@ -2,7 +2,7 @@
 
 <!-- center -->
 <div align="center">
-    <h2>👋 Hi there! I'm Chanwoong Kim</h2>
+    <h2>👋 Hi there! I'm Chanism</h2>
     <p>
         <a href="https://solved.ac/ykdy3951">
         <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=ykdy3951"/>
